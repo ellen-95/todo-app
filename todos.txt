@@ -1,6 +1,5 @@
 clean
 reading
 cleaning
-grocery
 buying things
 buying new stuff
