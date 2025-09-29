@@ -15,7 +15,7 @@ This project demonstrates how to create a lightweight productivity app where use
 
 ## 🚀 Demo
 Try it here 👉 [ellen-todo-app.streamlit.app](https://ellen-todo-app.streamlit.app/)
-
+![Demo Screenshot](demo.png)
 ---
 
 ## 🛠️ Tech Stack
